@@ -1,5 +1,8 @@
 class Praktikum {
-    public static void main(String args[]) { 
+    Praktikum() {
+    }	
 
+    public static void main(String args[]) { 
+	
     }	
 }
